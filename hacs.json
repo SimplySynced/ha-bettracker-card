@@ -1,0 +1,7 @@
+{
+  "name": "Bettracker Card",
+  "filename": "ha-bettracker-card.js",
+  "render_readme": true,
+  "homeassistant": "0.95.4",
+  "country": ["US"]
+}
